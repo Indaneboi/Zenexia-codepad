@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import logo from "./images/logo.png";
-import { faCloud, faCog, faPencilAlt } from "@fortawesome/free-solid-svg-icons";
+import { faCloud} from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function TopNavigation() {
