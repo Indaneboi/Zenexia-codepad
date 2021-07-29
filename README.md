@@ -1,5 +1,5 @@
 An Online Code editor for HTML, CSS and JavaScript.
-Live demo on Netlify: (https://zenexia-codepad.netlify.app/)
+Live demo on Netlify: https://zenexia-codepad.netlify.app/
 
 # Getting Started with Create React App
 
